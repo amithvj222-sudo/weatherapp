@@ -1,0 +1,6 @@
+{
+  "name": "Nimbus AI Weather",
+  "description": "Hyper-local weather forecasts with AI-driven personalized insights, climate trends, and severe weather alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["Weather Analysis", "Climate Trend Visualization", "AI Briefings"]
+}
